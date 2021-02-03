@@ -1,0 +1,2882 @@
+07:59:28 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:46: error: lvalue required as left operand of assignment
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:58: error: lvalue required as left operand of assignment
+../main.c:58: error: expected ')' before '{' token
+../main.c:63: error: expected expression before '}' token
+../main.c:79:2: warning: "/*" within comment
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+../main.c: In function 'main':
+../main.c:102: error: expected declaration or statement at end of input
+make: *** [main.o] Error 1
+07:59:35 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:46: error: lvalue required as left operand of assignment
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:58: error: lvalue required as left operand of assignment
+../main.c:58: error: expected ')' before '{' token
+../main.c:63: error: expected expression before '}' token
+../main.c:79:2: warning: "/*" within comment
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+../main.c: In function 'main':
+../main.c:102: error: expected declaration or statement at end of input
+make: *** [main.o] Error 1
+07:59:47 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:46: error: lvalue required as left operand of assignment
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:58: error: lvalue required as left operand of assignment
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+../main.c: In function 'main':
+../main.c:102: error: expected declaration or statement at end of input
+make: *** [main.o] Error 1
+08:00:34 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:46: error: lvalue required as left operand of assignment
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:58: error: lvalue required as left operand of assignment
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+make: *** [main.o] Error 1
+08:01:48 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:46: error: lvalue required as left operand of assignment
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:58: error: lvalue required as left operand of assignment
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+make: *** [main.o] Error 1
+08:04:23 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:58: error: lvalue required as left operand of assignment
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+make: *** [main.o] Error 1
+08:04:30 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11138 bytes (34.0% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:06:37 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11138 bytes (34.0% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:09:18 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:95: warning: suggest parentheses around comparison in operand of |
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11144 bytes (34.0% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:12:15 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:81:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:95: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:97: warning: suggest parentheses around comparison in operand of |
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11144 bytes (34.0% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:14:24 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:80:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:94: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+../main.c: In function 'GetCode':
+../main.c:96: warning: suggest parentheses around comparison in operand of |
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11144 bytes (34.0% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:17:58 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:60: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:80:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:94: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11116 bytes (33.9% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:20:17 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:59: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:79:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:93: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11096 bytes (33.9% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:22:46 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:59: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:80:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:94: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11096 bytes (33.9% Full)
+(.text + .data + .bootloader)
+
+Data:        107 bytes (5.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:26:33 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'GetCode'
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:59: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:62: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:80:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:94: warning: conflicting types for 'GetCode'
+../main.c:45: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11110 bytes (33.9% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:28:43 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:44: warning: statement with no effect
+../main.c:47: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:50: warning: implicit declaration of function 'GetCode'
+../main.c:53: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:55: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:64: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:67: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:85:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:99: warning: conflicting types for 'GetCode'
+../main.c:50: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11492 bytes (35.1% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:34:01 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:41: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:43: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: statement with no effect
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:51: warning: implicit declaration of function 'GetCode'
+../main.c:54: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:56: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:65: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:68: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:86:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:100: warning: conflicting types for 'GetCode'
+../main.c:51: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11860 bytes (36.2% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:36:25 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:41: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:43: warning: statement with no effect
+../main.c:44: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:51: warning: implicit declaration of function 'GetCode'
+../main.c:54: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:56: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:65: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:68: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:86:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:100: warning: conflicting types for 'GetCode'
+../main.c:51: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11860 bytes (36.2% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:37:42 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:41: warning: statement with no effect
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:46: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:49: warning: implicit declaration of function 'GetCode'
+../main.c:52: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:54: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:63: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:66: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:84:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:98: warning: conflicting types for 'GetCode'
+../main.c:49: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11144 bytes (34.0% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:39:26 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: statement with no effect
+../main.c:44: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:49: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:52: warning: implicit declaration of function 'GetCode'
+../main.c:55: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:57: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:66: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:69: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:87:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:101: warning: conflicting types for 'GetCode'
+../main.c:52: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   12218 bytes (37.3% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:41:29 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:44: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:49: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:52: warning: implicit declaration of function 'GetCode'
+../main.c:55: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:57: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:66: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:69: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:87:2: warning: "/*" within comment
+../main.c: At top level:
+../main.c:101: warning: conflicting types for 'GetCode'
+../main.c:52: warning: previous implicit declaration of 'GetCode' was here
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   12222 bytes (37.3% Full)
+(.text + .data + .bootloader)
+
+Data:        115 bytes (5.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:45:50 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:27: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:41: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:47: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:69:2: warning: "/*" within comment
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10954 bytes (33.4% Full)
+(.text + .data + .bootloader)
+
+Data:         91 bytes (4.4% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:47:17 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:28: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:31: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:42: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:46: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:70:2: warning: "/*" within comment
+../main.c:24: warning: unused variable 'u8CodeLoc'
+../main.c:23: warning: unused variable 'u8CodeInput'
+../main.c:21: warning: unused variable 'i'
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10948 bytes (33.4% Full)
+(.text + .data + .bootloader)
+
+Data:         80 bytes (3.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:50:45 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:41: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:47: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:49: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:74:2: warning: "/*" within comment
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10886 bytes (33.2% Full)
+(.text + .data + .bootloader)
+
+Data:         80 bytes (3.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:53:37 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:46: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:73:2: warning: "/*" within comment
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10548 bytes (32.2% Full)
+(.text + .data + .bootloader)
+
+Data:         80 bytes (3.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:54:29 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:37: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:41: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:47: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:49: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:74:2: warning: "/*" within comment
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10566 bytes (32.2% Full)
+(.text + .data + .bootloader)
+
+Data:         90 bytes (4.4% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:56:15 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:76:2: warning: "/*" within comment
+../main.c:21: warning: unused variable 'j'
+../main.c:21: warning: unused variable 'i'
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10192 bytes (31.1% Full)
+(.text + .data + .bootloader)
+
+Data:         48 bytes (2.3% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:58:10 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:76:2: warning: "/*" within comment
+../main.c:21: warning: unused variable 'j'
+../main.c:21: warning: unused variable 'i'
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:    9942 bytes (30.3% Full)
+(.text + .data + .bootloader)
+
+Data:         48 bytes (2.3% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+08:59:07 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:46: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:48: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:74:2: warning: "/*" within comment
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10298 bytes (31.4% Full)
+(.text + .data + .bootloader)
+
+Data:         80 bytes (3.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+09:09:48 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'OpenDoor'
+../main.c:65:2: warning: "/*" within comment
+../main.c:21: warning: unused variable 'j'
+../main.c:21: warning: unused variable 'i'
+../main.c: At top level:
+../main.c:79: warning: conflicting types for 'OpenDoor'
+../main.c:45: warning: previous implicit declaration of 'OpenDoor' was here
+../main.c: In function 'OpenDoor':
+../main.c:81: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:83: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:85: error: 'i' undeclared (first use in this function)
+../main.c:85: error: (Each undeclared identifier is reported only once
+../main.c:85: error: for each function it appears in.)
+make: *** [main.o] Error 1
+09:10:20 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:40: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:45: warning: implicit declaration of function 'OpenDoor'
+../main.c:65:2: warning: "/*" within comment
+../main.c:21: warning: unused variable 'j'
+../main.c:21: warning: unused variable 'i'
+../main.c: At top level:
+../main.c:79: warning: conflicting types for 'OpenDoor'
+../main.c:45: warning: previous implicit declaration of 'OpenDoor' was here
+../main.c: In function 'OpenDoor':
+../main.c:82: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:84: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   10338 bytes (31.5% Full)
+(.text + .data + .bootloader)
+
+Data:         80 bytes (3.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+18:33:53 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:39: warning: implicit declaration of function 'ClearPasswordField'
+../main.c:43: warning: implicit declaration of function 'PasswordCheck'
+../main.c:47: warning: implicit declaration of function 'OpenDoor'
+../main.c:51: warning: implicit declaration of function 'WrongPassword'
+../main.c:20: warning: unused variable 'j'
+../main.c:20: warning: unused variable 'i'
+../main.c: At top level:
+../main.c:69: warning: conflicting types for 'OpenDoor'
+../main.c:47: warning: previous implicit declaration of 'OpenDoor' was here
+../main.c: In function 'OpenDoor':
+../main.c:72: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:74: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:87: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:89: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:100: warning: conflicting types for 'ClearPasswordField'
+../main.c:39: warning: previous implicit declaration of 'ClearPasswordField' was here
+../main.c: In function 'ClearPasswordField':
+../main.c:102: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:106: error: conflicting types for 'PasswordCheck'
+../main.c:43: error: previous implicit declaration of 'PasswordCheck' was here
+../main.c: In function 'PasswordCheck':
+../main.c:113: warning: implicit declaration of function 'GetKey'
+../main.c: At top level:
+../main.c:134: warning: conflicting types for 'WrongPassword'
+../main.c:51: warning: previous implicit declaration of 'WrongPassword' was here
+../main.c: In function 'WrongPassword':
+../main.c:136: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:137: error: expected ';' before 'LCD_voidGoToXY'
+../main.c:139: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:146: error: conflicting types for 'GetKey'
+../main.c:113: error: previous implicit declaration of 'GetKey' was here
+make: *** [main.o] Error 1
+18:34:10 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:39: warning: implicit declaration of function 'ClearPasswordField'
+../main.c:43: warning: implicit declaration of function 'PasswordCheck'
+../main.c:47: warning: implicit declaration of function 'OpenDoor'
+../main.c:51: warning: implicit declaration of function 'WrongPassword'
+../main.c:20: warning: unused variable 'j'
+../main.c:20: warning: unused variable 'i'
+../main.c: At top level:
+../main.c:69: warning: conflicting types for 'OpenDoor'
+../main.c:47: warning: previous implicit declaration of 'OpenDoor' was here
+../main.c: In function 'OpenDoor':
+../main.c:72: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:74: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:87: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:89: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:100: warning: conflicting types for 'ClearPasswordField'
+../main.c:39: warning: previous implicit declaration of 'ClearPasswordField' was here
+../main.c: In function 'ClearPasswordField':
+../main.c:102: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:106: error: conflicting types for 'PasswordCheck'
+../main.c:43: error: previous implicit declaration of 'PasswordCheck' was here
+../main.c: In function 'PasswordCheck':
+../main.c:113: warning: implicit declaration of function 'GetKey'
+../main.c: At top level:
+../main.c:134: warning: conflicting types for 'WrongPassword'
+../main.c:51: warning: previous implicit declaration of 'WrongPassword' was here
+../main.c: In function 'WrongPassword':
+../main.c:136: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:139: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:146: error: conflicting types for 'GetKey'
+../main.c:113: error: previous implicit declaration of 'GetKey' was here
+make: *** [main.o] Error 1
+01:21:09 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:26: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:39: warning: implicit declaration of function 'ClearPasswordField'
+../main.c:43: warning: implicit declaration of function 'PasswordCheck'
+../main.c:47: warning: implicit declaration of function 'OpenDoor'
+../main.c:51: warning: implicit declaration of function 'WrongPassword'
+../main.c:20: warning: unused variable 'j'
+../main.c:20: warning: unused variable 'i'
+../main.c: At top level:
+../main.c:69: warning: conflicting types for 'OpenDoor'
+../main.c:47: warning: previous implicit declaration of 'OpenDoor' was here
+../main.c: In function 'OpenDoor':
+../main.c:72: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:74: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:87: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:89: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:100: warning: conflicting types for 'ClearPasswordField'
+../main.c:39: warning: previous implicit declaration of 'ClearPasswordField' was here
+../main.c: In function 'ClearPasswordField':
+../main.c:102: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:106: error: conflicting types for 'PasswordCheck'
+../main.c:43: error: previous implicit declaration of 'PasswordCheck' was here
+../main.c: In function 'PasswordCheck':
+../main.c:113: warning: implicit declaration of function 'GetKey'
+../main.c: At top level:
+../main.c:134: warning: conflicting types for 'WrongPassword'
+../main.c:51: warning: previous implicit declaration of 'WrongPassword' was here
+../main.c: In function 'WrongPassword':
+../main.c:136: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:139: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: At top level:
+../main.c:146: error: conflicting types for 'GetKey'
+../main.c:113: error: previous implicit declaration of 'GetKey' was here
+make: *** [main.o] Error 1
+01:25:16 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:33: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:27: warning: unused variable 'j'
+../main.c:27: warning: unused variable 'i'
+../main.c: In function 'OpenDoor':
+../main.c:79: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:81: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:94: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:109: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:143: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:146: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11570 bytes (35.3% Full)
+(.text + .data + .bootloader)
+
+Data:        162 bytes (7.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+01:30:46 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:33: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:27: warning: unused variable 'j'
+../main.c:27: warning: unused variable 'i'
+../main.c: In function 'OpenDoor':
+../main.c:79: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:81: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:94: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:109: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:143: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:146: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11570 bytes (35.3% Full)
+(.text + .data + .bootloader)
+
+Data:        162 bytes (7.9% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+01:46:22 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:33: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:27: warning: unused variable 'j'
+../main.c:27: warning: unused variable 'i'
+../main.c: In function 'OpenDoor':
+../main.c:79: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:81: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:94: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:109: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:145: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:151: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11800 bytes (36.0% Full)
+(.text + .data + .bootloader)
+
+Data:        148 bytes (7.2% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+01:48:42 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:33: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:27: warning: unused variable 'j'
+../main.c:27: warning: unused variable 'i'
+../main.c: In function 'OpenDoor':
+../main.c:79: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:81: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:94: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:109: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:145: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11544 bytes (35.2% Full)
+(.text + .data + .bootloader)
+
+Data:        136 bytes (6.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+01:51:38 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:33: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:27: warning: unused variable 'j'
+../main.c:27: warning: unused variable 'i'
+../main.c: In function 'OpenDoor':
+../main.c:80: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:82: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:95: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:97: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:110: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:143: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:146: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11794 bytes (36.0% Full)
+(.text + .data + .bootloader)
+
+Data:        136 bytes (6.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:03:50 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:33: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:27: warning: unused variable 'j'
+../main.c:27: warning: unused variable 'i'
+../main.c: In function 'OpenDoor':
+../main.c:79: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:81: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:94: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:109: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'PasswordCheck':
+../main.c:138: warning: control reaches end of non-void function
+../main.c: In function 'WrongPassword':
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:145: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11552 bytes (35.3% Full)
+(.text + .data + .bootloader)
+
+Data:        136 bytes (6.6% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:22:32 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c:25: error: variably modified 'u8UserInput' at file scope
+../main.c:26: error: variably modified 'u8Password' at file scope
+../main.c:26: warning: excess elements in array initializer
+../main.c:26: warning: (near initialization for 'u8Password')
+../main.c:26: warning: excess elements in array initializer
+../main.c:26: warning: (near initialization for 'u8Password')
+../main.c:26: warning: excess elements in array initializer
+../main.c:26: warning: (near initialization for 'u8Password')
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:80: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:82: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:95: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:97: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:110: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:135: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:138: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:141: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+make: *** [main.o] Error 1
+02:25:01 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:80: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:82: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:95: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:97: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:110: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:135: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:138: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:141: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11478 bytes (35.0% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:27:57 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:83: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:85: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:98: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:100: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:113: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:138: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:141: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:144: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11484 bytes (35.0% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:30:33 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: C:/Users/Silver/Documents/Embedded/Lock System/KEY_prog.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"KEY_prog.d" -MT"KEY_prog.d" -c -o "KEY_prog.o" "C:/Users/Silver/Documents/Embedded/Lock System/KEY_prog.c"
+In file included from C:/Users/Silver/Documents/Embedded/Lock System/KEY_prog.c:10:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+Finished building: C:/Users/Silver/Documents/Embedded/Lock System/KEY_prog.c
+ 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:86: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:88: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:101: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:103: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:116: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:141: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:144: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:147: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11496 bytes (35.1% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:32:44 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:57: error: expected expression before ']' token
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:87: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:89: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:102: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:104: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:117: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:145: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+make: *** [main.o] Error 1
+02:33:26 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:57: error: expected expression before '{' token
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:87: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:89: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:102: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:104: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:117: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:142: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:145: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+make: *** [main.o] Error 1
+02:37:44 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:90: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:92: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:105: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:107: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:120: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:145: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:151: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11528 bytes (35.2% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:43:29 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:90: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:92: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:105: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:107: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:117: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:123: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:151: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:154: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11548 bytes (35.2% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:45:14 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:90: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:92: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:105: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:107: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:117: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:123: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:148: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:151: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:154: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11548 bytes (35.2% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:51:17 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:91: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:93: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:106: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:108: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:118: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:124: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:152: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:155: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11802 bytes (36.0% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:53:53 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:91: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:93: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:106: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:108: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:118: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:124: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:152: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:155: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11574 bytes (35.3% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:55:25 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:91: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:93: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:106: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:108: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:118: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:124: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:152: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:156: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11802 bytes (36.0% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+02:57:02 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:91: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:93: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:106: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:108: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:118: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:124: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:152: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:155: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11554 bytes (35.3% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+03:02:11 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:95: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:97: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:110: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:112: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:122: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:128: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:153: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:156: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:159: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11332 bytes (34.6% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+03:03:08 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:98: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:111: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:113: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:123: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:129: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:154: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:157: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:160: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11590 bytes (35.4% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+03:04:27 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:98: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:111: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:113: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:123: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:129: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:154: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:157: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:160: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11590 bytes (35.4% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+03:06:03 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:35: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:38: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:29: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:96: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:98: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:111: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:113: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:123: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:129: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:154: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:157: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:160: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11326 bytes (34.6% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 
+03:10:53 **** Incremental Build of configuration Debug for project locksecurity ****
+make all 
+Building file: ../main.c
+Invoking: AVR Compiler
+avr-gcc -Wall -g2 -gstabs -O0 -fpack-struct -fshort-enums -ffunction-sections -fdata-sections -std=gnu99 -funsigned-char -funsigned-bitfields -mmcu=atmega32 -DF_CPU=8000000UL -MMD -MP -MF"main.d" -MT"main.o" -c -o "main.o" "../main.c"
+In file included from ../main.c:9:
+c:/users/silver/documents/embedded/imt eclipse/winavr/lib/gcc/../../avr/include/util/delay.h:90:3: warning: #warning "Compiler optimizations disabled; functions from <util/delay.h> won't work as designed"
+../main.c: In function 'main':
+../main.c:36: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:39: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:30: warning: unused variable 'j'
+../main.c: In function 'OpenDoor':
+../main.c:91: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:93: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'CloseDoor':
+../main.c:106: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:108: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:118: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'ClearPasswordField':
+../main.c:124: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c: In function 'WrongPassword':
+../main.c:149: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:152: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+../main.c:155: warning: pointer targets in passing argument 1 of 'LCD_voidWriteString' differ in signedness
+Finished building: ../main.c
+ 
+Building target: locksecurity.elf
+Invoking: AVR C Linker
+avr-gcc -Wl,-Map,locksecurity.map -mmcu=atmega32 -o "locksecurity.elf"  ./DIO_prg.o ./KEY_prog.o ./LCD_prg.o ./SEV_prg.o ./STEPPER_prg.o ./main.o   
+Finished building target: locksecurity.elf
+ 
+Invoking: AVR Create Extended Listing
+avr-objdump -h -S locksecurity.elf  >"locksecurity.lss"
+Finished building: locksecurity.lss
+ 
+Create Flash image (ihex format)
+avr-objcopy -R .eeprom -R .fuse -R .lock -R .signature -O ihex locksecurity.elf  "locksecurity.hex"
+Finished building: locksecurity.hex
+ 
+Create eeprom image (ihex format)
+avr-objcopy -j .eeprom --no-change-warnings --change-section-lma .eeprom=0 -O ihex locksecurity.elf  "locksecurity.eep"
+Finished building: locksecurity.eep
+ 
+Invoking: Print Size
+avr-size --format=avr --mcu=atmega32 locksecurity.elf
+AVR Memory Usage
+----------------
+Device: atmega32
+
+Program:   11360 bytes (34.7% Full)
+(.text + .data + .bootloader)
+
+Data:        140 bytes (6.8% Full)
+(.data + .bss + .noinit)
+
+
+Finished building: sizedummy
+ 

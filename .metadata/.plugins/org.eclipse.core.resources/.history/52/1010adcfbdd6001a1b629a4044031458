@@ -1,0 +1,39 @@
+/*******************************************/
+/** Author      : ahmed mahmoud            */
+/** Description : cfg file for kEYPAD      */
+/** Date        : 29 Nov 2019		       */
+/** Version     : 1.0V                     */
+/*******************************************/
+
+#ifndef KEY_CFG_H 
+#define KEY_CFG_H
+
+#define KEY_u8INPUT_0     DIO_u8_PIN_11
+#define KEY_u8INPUT_1     DIO_u8_PIN_12
+#define KEY_u8INPUT_2     DIO_u8_PIN_13
+#define KEY_u8INPUT_3     DIO_u8_PIN_14
+
+#define KEY_u8OUTPUT_0    DIO_u8_PIN_15
+#define KEY_u8OUTPUT_1    DIO_u8_PIN_16
+#define KEY_u8OUTPUT_2    DIO_u8_PIN_17
+#define KEY_u8OUTPUT_3    DIO_u8_PIN_18
+
+					 
+#define BUTTON_0    1 
+#define BUTTON_1    2
+#define BUTTON_2    3
+#define BUTTON_3    4
+#define BUTTON_4    5
+#define BUTTON_5    6
+#define BUTTON_6    7
+#define BUTTON_7    8
+#define BUTTON_8    9
+#define BUTTON_9    '+'
+#define BUTTON_10   '-'
+#define BUTTON_11   '*'
+#define BUTTON_12   '/'
+#define BUTTON_13   '='
+#define BUTTON_14   '.'
+#define BUTTON_15	0
+
+#endif

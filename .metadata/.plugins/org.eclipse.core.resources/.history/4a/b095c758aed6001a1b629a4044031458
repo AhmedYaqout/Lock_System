@@ -1,0 +1,45 @@
+/*
+ * main.c
+ *
+ *  Created on: 11 Dec 2019
+ *      Author: Ahmad Yaqoot
+ */
+#include "STD_Types.h"
+#include "BIT_math.h"
+#include <util/delay.h>
+
+#include "DIO_int.h"
+#include "LCD_int.h"
+#include "SEV_int.h"
+#include "STEPPER_int.h"
+
+
+int main (void){
+	s8 i,j;
+	DIO_voidInit();
+	LCD_voidInit();
+	LCD_voidWriteString("Home Security");
+	while(1){
+		LCD_voidClear();
+		LCD_voidWriteString("Locking Door");
+		Stepper_RotateCW();
+		for (i=3;i>=0;i--){
+			SEV_voidDisplayNb(SEV_LEFT,i);
+			_delay_ms(1000);
+		}
+
+		LCD_voidClear();
+		LCD_voidWriteString("Unlocking Door!");
+		Stepper_RotateACW();
+
+		for (i=2;i>=0;i--){
+			SEV_voidDisplayNb(SEV_LEFT,i);
+			_delay_ms(1000);
+		}
+		LCD_voidClear();
+
+	}
+	_delay_ms(10);
+
+	return 0;
+}

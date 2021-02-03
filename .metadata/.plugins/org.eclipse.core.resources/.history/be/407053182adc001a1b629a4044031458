@@ -1,0 +1,81 @@
+/*
+ * main.c
+ *
+ *  Created on: 11 Dec 2019
+ *      Author: Ahmad Yaqoot
+ */
+#include "STD_Types.h"
+#include "BIT_math.h"
+#include <util/delay.h>
+
+#include "DIO_int.h"
+#include "LCD_int.h"
+#include "SEV_int.h"
+#include "KEY_int.h"
+#include "STEPPER_int.h"
+
+
+int main (void){
+	s8 i,j;
+	u8 u8PressedLoc;
+	DIO_voidInit();
+	LCD_voidInit();
+	KEY_voidInit();
+	LCD_voidWriteString("Home Security");
+	_delay_ms(1000);
+	LCD_voidClear();
+	LCD_voidWriteString("Enter Password:");
+	_delay_ms(1000);
+	LCD_voidGoToXY(2,0);
+	LCD_voidSendCmd(0x0F);
+	while(1){
+
+				u8PressedLoc = KEY_u8GetPressedKey() ;
+
+				if (u8PressedLoc != 0xFF)
+				{
+					if(u8PressedLoc == 'C'){
+						LCD_voidClear();
+						LCD_voidWriteString("Enter Password:");
+						LCD_voidGoToXY(2,0);
+					}else if(u8PressedLoc == 'E'){
+						LCD_voidClear();
+						LCD_voidWriteString("Welcome Home!");
+						LCD_voidGoToXY(2,0);
+						LCD_voidWriteString("Unlocking Door...");
+						break;
+					}else{
+					LCD_voidWriteChar(u8PressedLoc +0x30);
+					_delay_ms(200);
+				}
+				}
+
+	}
+	/*while(1){
+		LCD_voidClear();
+		LCD_voidWriteString("Locking Door");
+
+		/*for (i=0;i<=63;i++){
+					Stepper_RotateCW();
+		}* /
+		for (i=3;i>=0;i--){
+			SEV_voidDisplayNb(SEV_LEFT,i);
+			_delay_ms(1000);
+		}
+
+		LCD_voidClear();
+		LCD_voidWriteString("Unlocking Door!");
+		/*for (i=0;i<=63;i++){
+							Stepper_RotateACW();
+				}* /
+		for (i=2;i>=0;i--){
+			SEV_voidDisplayNb(SEV_LEFT,i);
+			_delay_ms(1000);
+		}
+		LCD_voidClear();
+
+	}*/
+	_delay_ms(10);
+
+	return 0;
+}
